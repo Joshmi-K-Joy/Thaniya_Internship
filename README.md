@@ -5,9 +5,11 @@
 
 This project applies K-Means Clustering to group songs into different musical genres based on their audio features. The dataset used is a Spotify dataset (CSV format) containing various audio characteristics of songs. The analysis and clustering are performed entirely in Jupyter Notebook using Python.
 
+
 ✨ Features
 
 ✅ Unsupervised Learning: Uses K-Means clustering to group songs without predefined labels.✅ Feature-Based Clustering: Groups songs based on attributes like tempo, loudness, danceability, and energy.✅ Data Visualization: Uses plots and charts to analyze genre distributions.✅ Spotify Dataset: Real-world dataset containing diverse music metadata.✅ Jupyter Notebook Implementation: Full analysis and clustering executed within Jupyter Notebook.
+
 
 📂 Dataset: Spotify CSV File
 
@@ -28,9 +30,11 @@ Jupyter Notebook (Development Environment)
 
 The K-Means model successfully groups songs into clusters based on their audio features. Songs with similar characteristics (e.g., high danceability and tempo) are clustered together, providing valuable insights into music segmentation.
 
+
 🚀 Future Enhancements
 
 🔹 Improve clustering accuracy using Principal Component Analysis (PCA).🔹 Apply hierarchical clustering for a more structured genre classification.🔹 Incorporate Spotify API to fetch real-time song data.🔹 Enhance visualization with interactive plots.
+
 
 🏁 Conclusion
 
